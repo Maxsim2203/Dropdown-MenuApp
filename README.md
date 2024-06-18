@@ -1,2 +1,1 @@
-# Dropdown Menu App
-Приложение портфолио 
+# Dropdown menu
